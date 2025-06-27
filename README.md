@@ -36,6 +36,9 @@ cifar_resnet_cbam.ipynb：
 与 cifar_resnet.ipynb 类似，但在 ResNet - 18 模型的基础上引入了 CBAM 注意力机制。  
 实验结果  
 在运行代码后，你可以在 Jupyter Notebook 中查看模型的训练过程、损失曲线和测试准确率。通过对比 cifar_resnet.ipynb 和 cifar_resnet_cbam.ipynb 的实验结果，你可以分析引入 CBAM 注意力机制对模型性能的影响。  
+可以查看链接获取：  
+https://drive.google.com/drive/folders/1yyKC0jBGdHShPEGUKSR_i2JH4VxFrfd6?usp=sharing  
+https://drive.google.com/drive/folders/1-mAnuJA6e358l5_gmDThEhqwwKD5m6LC?usp=drive_link  
 贡献  
 如果你对本仓库有任何改进建议或发现了 bug，请提交 issue 或 pull request。  
 许可证  
